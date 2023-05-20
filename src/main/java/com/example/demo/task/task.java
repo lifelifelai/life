@@ -19,7 +19,7 @@ public class task {
 @Scheduled(initialDelay = 1000, fixedDelay = 600000)
 void ppp() throws IOException
 {
-	Document doc = Jsoup.connect("https://sasalifelifelai.herokuapp.com/lifelife").get();
+	Document doc = Jsoup.connect("https://adora.herokuapp.com/sysy").get();
 System.out.println("newcode");
 //	List<playplannlist> playplannl=new ArrayList<playplannlist>();
 //	playplannl=rep4.wwstat1();
