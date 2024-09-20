@@ -28,6 +28,15 @@ public class hintindedecontroller {
 		return "succes";
 	}
 	
+	@RequestMapping("/li")
+	
+	public String tsesting0044fs2f(Model model) {
+		
+
+
+		
+		return "succes";
+	}
 	
 
 	}
